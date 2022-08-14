@@ -1,0 +1,35 @@
+.item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 16px;
+
+}
+
+.statusIsOn {
+  display: inline-block;
+  background-color: rgb(59, 229, 59);      
+  border-radius: 50%;
+  height: 16px;
+  width: 16px;
+  margin-right: 20px;  
+}
+
+
+.statusIsOff {
+  display: inline-block;
+  background-color: rgb(153, 151, 151);
+  border-radius: 50%;
+  height: 16px;
+  width: 16px;
+  margin-right: 20px;
+}
+
+.avatar {
+  padding: 20px;
+  margin-right: 20px;
+}
+
+.name {
+  font-size: 24px;
+  font-weight: 500;
+}

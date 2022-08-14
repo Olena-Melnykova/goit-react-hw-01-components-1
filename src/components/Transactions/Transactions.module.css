@@ -1,0 +1,18 @@
+.history {
+  width: 100%;
+}
+
+.header {
+  background-color: #61b2f5;
+  color: #ffffff;
+}
+
+.data {
+  text-align: center;
+  height: 40px;
+}
+
+.data:nth-child(2n) {
+  background-color: #f6f6f6;
+}
+
